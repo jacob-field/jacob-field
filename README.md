@@ -7,6 +7,6 @@
 - 💻 I learned C++ in 2019 for a high school class and have been using it as my main language to this day
 - 📝 In 2020, I started my Bachelor's Degree in Computer Science at the University of Michigan
 - 🐍 I taught myself Python in 2023 for my summer internship at Trinity Health
-- 🧠 I've also taught myself how to use a lot of professional software, like Adobe Photoshop, Premiere Pro, and After Effects
-- 🎵 I'm currently working on a C++ Arduino program that allows RGB lights to react to the frequencies of music
+- 🧠 I've also taught myself how to use professional software like Adobe Photoshop, Premiere Pro, After Effects, and FL-Studio 21
+- 🎵 I'm currently working on a C++ Arduino program that connects to an RGB light strip
 - 🏐 For fun, I like to produce music, play guitar, and play sports like volleyball and football
