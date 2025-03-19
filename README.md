@@ -8,5 +8,5 @@
 - 📝 In 2020, I started my Bachelor's Degree in Computer Science at the University of Michigan
 - 🐍 I taught myself Python in 2023 for my summer internship at Trinity Health
 - 🧠 I've also taught myself how to use professional software like Adobe Photoshop, Premiere Pro, After Effects, and FL-Studio 21
-- 🎵 I'm currently working on a Python project that updates a YouTube video's title in real time to display its current view count!
+- 🎵 I'm currently working on learning C# with Unity Game Engine
 - 🏐 For fun, I like to produce music, play guitar, edit pictures/videos, and play sports like volleyball and spikeball
